@@ -9,5 +9,9 @@ exclude_patterns = [
 ]
 
 [[analyzers]]
+name = "javascript"
+enabled = true
+
+[[analyzers]]
 name = "php"
 enabled = true
